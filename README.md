@@ -20,7 +20,6 @@ Program to implement the prediction of iris species using SGD Classifier.
 Developed by: Rajamanikandan R
 RegisterNumber: 212223220082 
 */
-```
 import pandas as pd
 from sklearn.datasets import load_iris
 from sklearn.linear_model import SGDClassifier
@@ -59,7 +58,7 @@ plt.xlabel("Predicted Label")
 plt.ylabel("True Label")
 plt.title("Confusion Matrix")
 plt.show()
-
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/5f878959-2742-4f87-a7b5-eea48b496c46)
 
